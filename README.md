@@ -1,7 +1,5 @@
 # Individual Student App
 
-![PSU College of Engineering](https://github.com/user-attachments/assets/c00ecb1a-3192-48c7-88ba-b0d053fdd661)
-
 ## Overview
 
 This project is a student registration app designed for students at Penn State University's College of Engineering. The app allows students to:
